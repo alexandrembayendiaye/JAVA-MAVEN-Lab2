@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: REPUBLIC OF GAMERS
+Build-Jdk: 17.0.12
+Implementation-Title: COMMANDE WEB
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.groupeisi.lab
+Main-Class: ${start-class}
+
