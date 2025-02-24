@@ -8,9 +8,19 @@ creons le module batch qui sera un projet springboot
 
 ![a02](https://github.com/user-attachments/assets/e460bf21-ffc1-4747-a97f-0cbbffe66f8b)
 
+Voici suon pom
+
+![a07](https://github.com/user-attachments/assets/6d84a630-13e8-42ab-9447-a8fb3cf8e390)
+
+
 Passons à la creation du module services
 
 ![a03](https://github.com/user-attachments/assets/630cea17-46e9-47a2-9f52-bea21c1df78a)
+
+Voici son pom
+
+![a08](https://github.com/user-attachments/assets/ce2f31ed-60f2-4f16-8abf-f95c76fdc2e0)
+
 
 Et enfin au module web qui sera un projet tomcat
 
